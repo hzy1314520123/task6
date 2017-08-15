@@ -1,0 +1,159 @@
+body p{
+	background-color: white;
+	padding: 0;
+	margin: 0;
+}
+body{
+	position: relative;
+}
+/*头部部分 */
+main{
+	padding-top: 3rem;
+	padding-bottom:3.4rem ;
+}
+header{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	background-color: #5AC0CE;
+	line-height:3rem;
+	height: 3rem;
+}
+.headpart{
+	margin: 0 auto;
+	width: 8rem;
+}
+.emple,.nurworker{
+	border-radius: 0.4rem;
+	line-height: 2.3rem;
+    height: 2.3rem;
+    margin-top: 0.3rem;
+    width: 50%;
+	float: left;
+}
+.emple{
+	color: white;
+	background-color: #54A7B2;
+}
+.nurworker{
+	margin-left: -0.1rem;
+	color:#5AC0CE;
+	background-color: white;
+}
+.icon-map_map{
+	float: right;
+    margin-top: 1.1rem;
+    margin-right: 1rem;
+	color: white;
+	font-size: 1.5rem;
+}
+/*下拉列表*/
+.navpart{
+	text-align: center;
+	line-height: 2.7rem;
+	height:2.7rem ;
+	border-bottom: solid 1px #CCCCCC;
+}
+.adress,.rab,.patient{
+	font-weight: bold;
+	color: #CCCCCC;
+	border-right: solid 1px #CCCCCC;
+	float: left;
+	height: 100%;
+	width: 33%;
+}
+.icon-xialajiantouxiangxia{
+	margin: 1.2rem 0.3rem 0 0;
+	float: right;
+	color: #8C8C8C;
+	font-size: 0.7rem;
+}
+/*主题部分*/
+.cetion{
+	border-bottom: solid 1px #CCCCCC;
+	line-height: 6rem;
+	height: 6rem;
+}
+.sidebar_a{
+	padding-top: 0.4rem;
+	line-height: 1.8rem;
+	float: left;
+}
+.sidebar_a p{
+	color: #C0C0C0;
+}
+.sidebar_a div{
+	padding-left: 2rem;
+	color: #3C3C3C;
+}
+.sidebar_b{
+	float: right;
+}
+.icon-rili,.icon-mp-location{
+	color: #C0C0C0;
+	margin: 0  0.6rem;
+}
+.sidebar_b{
+	color: red;
+}
+.icon-xiangyou{
+	color: #5AC0CE;
+}
+/*尾部菜单*/
+footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	color: #5AC0CE;
+	background-color:#F9FAFC;
+	height: 3.4rem;
+}
+footer div{
+	width: 31%;
+	float:left;
+	margin: 1rem 0.1rem 1rem 0.1rem;
+}
+.page,.mine{
+	text-align: center;
+}
+.page p{
+	margin-top: 0.2rem;
+    width: 100%;
+}
+.icon-shouye{
+	color: #5AC0CE;
+	width: 100%;
+	font-size:1.8rem;
+}
+.icon-wode{
+	color: #8C8C8C;
+	width: 100%;
+	font-size: 1.4rem;
+}
+.mine{
+	color: #8C8C8C;
+}
+.compail{
+	position: relative;
+}
+.compailone{
+	margin-top: -0.7rem;
+	position: absolute;
+	top: 50%;
+	left: 20%;
+	width: 3.5rem;
+	height: 3.5rem;
+	border-radius:50%;
+	background-color: #5AC0CE;
+}
+.icon-bianji2 {
+	color: white;
+	margin-right: 0.5rem;
+	margin-top: 1.2rem;
+	font-size: 1.5rem;
+}
