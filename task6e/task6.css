@@ -4,13 +4,14 @@ body  p {
 	margin: 0;
 	font-size:16px;
 }
-body{
+body{   
+	margin:0;
 	position: relative;
 }
 /*头部部分 */
 main{
-	padding-top: 3rem;
-	padding-bottom:3.4rem ;
+	margin-top: 3rem;
+	margin-bottom:1rem ;
 }
 header{
 	position: fixed;
@@ -65,7 +66,6 @@ header{
 	width: 33%;
 }
 .icon-xialajiantouxiangxia{
-	margin: 1.2rem 0.3rem 0 0;
 	float: right;
 	color: #8C8C8C;
 	font-size: 0.7rem;
