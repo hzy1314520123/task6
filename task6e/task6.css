@@ -29,9 +29,9 @@ header{
 .emple,.nurworker{
 	border-radius: 0.4rem;
 	line-height: 2.3rem;
-    height: 2.3rem;
-    margin-top: 0.3rem;
-    width: 50%;
+        height: 2.3rem;
+        margin-top: 0.3rem;
+        width: 50%;
 	float: left;
 }
 .emple{
@@ -45,8 +45,7 @@ header{
 }
 .icon-map_map{
 	float: right;
-    margin-top: 1.1rem;
-    margin-right: 1rem;
+        margin-right: 0.5rem;
 	color: white;
 	font-size: 1.5rem;
 }
